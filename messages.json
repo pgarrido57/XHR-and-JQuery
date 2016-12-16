@@ -1,0 +1,7 @@
+{
+  "messages":[
+    { "sender": "Peter", "message": "Hola!" },
+    { "sender": "Ashley", "message": "Hey!"},
+    { "sender": "Athena", "message": "Hi!"}
+  ]
+}
